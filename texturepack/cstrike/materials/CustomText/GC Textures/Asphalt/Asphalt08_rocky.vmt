@@ -1,0 +1,6 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "CustomText/GC Textures/Asphalt/Asphalt08_rocky"
+	"$bumpmap" "CustomText/GC Textures/Asphalt/Asphalt08_rocky_normal"
+	"$surfaceprop" "concrete"
+}

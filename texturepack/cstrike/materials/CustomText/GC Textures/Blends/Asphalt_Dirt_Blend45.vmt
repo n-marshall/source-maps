@@ -1,0 +1,10 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "CustomText/GC Textures/Asphalt/Asphalt02_Cracked"
+	"$bumpmap" "CustomText/GC Textures/Asphalt/Asphalt02_Cracked"
+	"$basetexture2" "CustomText/GC Textures/Earth/Dirt_Cracked02"
+	"$bumpmap2" "CustomText/GC Textures/Earth/Dirt_Cracked02_normal"
+	"$surfaceprop" "Concrete"
+	"$surfaceprop2" "Dirt"
+	"%keywords" "Blend, Path"
+}

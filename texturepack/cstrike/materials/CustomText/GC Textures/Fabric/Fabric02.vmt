@@ -1,0 +1,6 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "CustomText/GC Textures/Fabric/Fabric02"
+	"$bumpmap" "CustomText/GC Textures/Fabric/Fabric02_normal"
+	"$surfaceprop" "carpet"
+}

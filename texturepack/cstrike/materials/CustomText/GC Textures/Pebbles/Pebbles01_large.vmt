@@ -1,0 +1,6 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "CustomText/GC Textures/Pebbles/Pebbles01_large"
+	"$bumpmap" "CustomText/GC Textures/Pebbles/Pebbles01_large_normal"
+	"$surfaceprop" "Gravel"
+}

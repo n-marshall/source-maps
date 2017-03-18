@@ -1,0 +1,6 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "CustomText/GC Textures/Doors/HouseDoor"
+	"$bumpmap" "CustomText/GC Textures/Doors/HouseDoor_normal"
+	"$surfaceprop" "wood_panel"
+}

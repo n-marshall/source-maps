@@ -1,0 +1,6 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "CustomText/GC Textures/Dirt/LoamWall02"
+	"$bumpmap" "CustomText/GC Textures/Dirt/LoamWall02_nomal"
+	"$surfaceprop" "dirt"
+}

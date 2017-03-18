@@ -1,0 +1,10 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "CustomText/GC Textures/Pebbles/Pebbles02_large"
+	"$bumpmap" "CustomText/GC Textures/Pebbles/Pebbles02_large_normal"
+	"$basetexture2" "CustomText/GC Textures/Gras/Grass01"
+	"$bumpmap2" "CustomText/GC Textures/Gras/Grass01_normal"
+	"$surfaceprop" "Gravel"
+	"$surfaceprop2" "Grass"
+	"%keywords" "Blend"
+}

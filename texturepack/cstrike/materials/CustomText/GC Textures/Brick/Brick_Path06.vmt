@@ -1,0 +1,6 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "CustomText/GC Textures/Brick/Brick_Path06"
+	"$bumpmap" "CustomText/GC Textures/Brick/Brick_Path06_normal"
+	"$surfaceprop" "Brick"
+}

@@ -1,0 +1,6 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "CustomText/GC Textures/Rocks/RockWall02"
+	"$bumpmap" "CustomText/GC Textures/Rocks/RockWall02_normal"
+	"$surfaceprop" "Rock"
+}

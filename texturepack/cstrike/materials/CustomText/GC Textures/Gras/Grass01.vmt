@@ -1,0 +1,6 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "CustomText/GC Textures/Gras/Grass01"
+	"$bumpmap" "CustomText/GC Textures/Gras/Grass01_normal"
+	"$surfaceprop" "Grass"
+}

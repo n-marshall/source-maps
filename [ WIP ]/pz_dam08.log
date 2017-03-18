@@ -1,0 +1,288 @@
+
+
+
+materialPath: c:\program files\steam\steamapps\ralayax\half-life 2 episode two\ep2\materials
+Loading D:\Nicolas\[ WIP ]\pz_dam08.vmf
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 414 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (2)
+writing D:\Nicolas\[ WIP ]\pz_dam08.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_ep02_04_hdr*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_ep02_04_hdr*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (836826 bytes)
+Static prop models/props_c17/metalladder001.mdl outside the map (4481.03, 8587.23, 2274.60)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9.Material NATURE/BLENDGRASSGRAVEL001B uses unknown detail object type coastline_redgrass03!
+Material NATURE/BLENDGRASSGRAVEL001B uses unknown detail object type coastline_redgrass03!
+Material NATURE/BLENDGRASSGRAVEL001B uses unknown detail object type coastline_redgrass03!
+Material NATURE/BLENDGRASSGRAVEL001B uses unknown detail object type coastline_redgrass03!
+Material NATURE/BLENDGRASSGRAVEL001B uses unknown detail object type coastline_redgrass03!
+Material NATURE/BLENDGRASSGRAVEL001B uses unknown detail object type coastline_redgrass03!
+Material NATURE/BLENDGRASSGRAVEL001B uses unknown detail object type coastline_redgrass03!
+Material NATURE/BLENDGRASSGRAVEL001B uses unknown detail object type coastline_redgrass03!
+Material NATURE/BLENDGRASSGRAVEL001B uses unknown detail object type coastline_redgrass03!
+Material NATURE/BLENDGRASSGRAVEL001B uses unknown detail object type coastline_redgrass03!
+Material NATURE/BLENDGRASSGRAVEL001B uses unknown detail object type coastline_redgrass03!
+Material NATURE/BLENDGRASSGRAVEL001B uses unknown detail object type coastline_redgrass03!
+Material NATURE/BLENDGRASSGRAVEL001B uses unknown detail object type coastline_redgrass03!
+Material NATURE/BLENDGRASSGRAVEL001B uses unknown detail object type coastline_redgrass03!
+Material NATURE/BLENDGRASSGRAVEL001B uses unknown detail object type coastline_redgrass03!
+Material NATURE/BLENDGRASSGRAVEL001B uses unknown detail object type coastline_redgrass03!
+Material NATURE/BLENDGRASSGRAVEL001B uses unknown detail object type coastline_redgrass03!
+Material NATURE/BLENDGRASSGRAVEL001B uses unknown detail object type coastline_redgrass03!
+Material NATURE/BLENDGRASSGRAVEL001B uses unknown detail object type coastline_redgrass03!
+Material NATURE/BLENDGRASSGRAVEL001B uses unknown detail object type coastline_redgrass03!
+Material NATURE/BLENDGRASSGRAVEL001B uses unknown detail object type coastline_redgrass03!
+Material NATURE/BLENDGRASSGRAVEL001B uses unknown detail object type coastline_redgrass03!
+Material NATURE/BLENDGRASSGRAVEL001B uses unknown detail object type coastline_redgrass03!
+Material NATURE/BLENDGRASSGRAVEL001B uses unknown detail object type coastline_redgrass03!
+Material NATURE/BLENDGRASSGRAVEL001B uses unknown detail object type coastline_redgrass03!
+Material NATURE/BLENDGRASSGRAVEL001B uses unknown detail object type coastline_redgrass03!
+Material NATURE/BLENDGRASSGRAVEL001B uses unknown detail object type coastline_redgrass03!
+Material NATURE/BLENDGRASSGRAVEL001B uses unknown detail object type coastline_redgrass03!
+Material NATURE/BLENDGRASSGRAVEL001B uses unknown detail object type coastline_redgrass03!
+Material NATURE/BLENDGRASSGRAVEL001B uses unknown detail object type coastline_redgrass03!
+Material NATURE/BLENDGRASSGRAVEL001B uses unknown detail object type coastline_redgrass03!
+Material NATURE/BLENDGRASSGRAVEL001B uses unknown detail object type coastline_redgrass03!
+Material NATURE/BLENDGRASSGRAVEL001B uses unknown detail object type coastline_redgrass03!
+Material NATURE/BLENDGRASSGRAVEL001B uses unknown detail object type coastline_redgrass03!
+Material NATURE/BLENDGRASSGRAVEL001B uses unknown detail object type coastline_redgrass03!
+Material NATURE/BLENDGRASSGRAVEL001B uses unknown detail object type coastline_redgrass03!
+Material NATURE/BLENDGRASSGRAVEL001B uses unknown detail object type coastline_redgrass03!
+Material NATURE/BLENDGRASSGRAVEL001B uses unknown detail object type coastline_redgrass03!
+Material NATURE/BLENDGRASSGRAVEL001B uses unknown detail object type coastline_redgrass03!
+Material NATURE/BLENDGRASSGRAVEL001B uses unknown detail object type coastline_redgrass03!
+Material NATURE/BLENDGRASSGRAVEL001B uses unknown detail object type coastline_redgrass03!
+Material NATURE/BLENDGRASSGRAVEL001B uses unknown detail object type coastline_redgrass03!
+Material NATURE/BLENDGRASSGRAVEL001B uses unknown detail object type coastline_redgrass03!
+Material NATURE/BLENDGRASSGRAVEL001B uses unknown detail object type coastline_redgrass03!
+Material NATURE/BLENDGRASSGRAVEL001B uses unknown detail object type coastline_redgrass03!
+Material NATURE/BLENDGRASSGRAVEL001B uses unknown detail object type coastline_redgrass03!
+Material NATURE/BLENDGRASSGRAVEL001B uses unknown detail object type coastline_redgrass03!
+Material NATURE/BLENDGRASSGRAVEL001B uses unknown detail object type coastline_redgrass03!
+Material NATURE/BLENDGRASSGRAVEL001B uses unknown detail object type coastline_redgrass03!
+Material NATURE/BLENDGRASSGRAVEL001B uses unknown detail object type coastline_redgrass03!
+Material NATURE/BLENDGRASSGRAVEL001B uses unknown detail object type coastline_redgrass03!
+Material NATURE/BLENDGRASSGRAVEL001B uses unknown detail object type coastline_redgrass03!
+Material NATURE/BLENDGRASSGRAVEL001B uses unknown detail object type coastline_redgrass03!
+Material NATURE/BLENDGRASSGRAVEL001B uses unknown detail object type coastline_redgrass03!
+Material NATURE/BLENDGRASSGRAVEL001B uses unknown detail object type coastline_redgrass03!
+Material NATURE/BLENDGRASSGRAVEL001B uses unknown detail object type coastline_redgrass03!
+Material NATURE/BLENDGRASSGRAVEL001B uses unknown detail object type coastline_redgrass03!
+Material NATURE/BLENDGRASSGRAVEL001B uses unknown detail object type coastline_redgrass03!
+..10
+Compacting texture/material tables...
+Reduced 4303 texinfos to 2418
+Reduced 301 texdatas to 248 (10805 bytes to 8973)
+Writing D:\Nicolas\[ WIP ]\pz_dam08.bsp
+13 seconds elapsed
+
+
+
+1 threads
+reading d:\nicolas\[ wip ]\pz_dam08.bsp
+reading d:\nicolas\[ wip ]\pz_dam08.prt
+2571 portalclusters
+8083 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 277573 visible clusters (0.00%)
+Total clusters visible: 4859713
+Average clusters visible: 1890
+Building PAS...
+Average clusters audible: 2566
+visdatasize:1609269  compressed from 1686576
+writing d:\nicolas\[ wip ]\pz_dam08.bsp
+24 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[48 texlights parsed from 'lights.rad']
+
+Loading d:\nicolas\[ wip ]\pz_dam08.bsp
+11197 faces
+5 degenerate faces
+7170292 square feet [1032522112.00 square inches]
+233 Displacements
+1354225 Square Feet [195008400.00 Square Inches]
+11192 patches before subdivision
+180848 patches after subdivision
+155 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 49685195, max 2810
+transfer lists: 379.1 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(1311859, 760763, 279069)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(179064, 109774, 41618)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(30158, 20900, 8776)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(6544, 5133, 2330)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(1597, 1434, 694)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(476, 459, 225)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(148, 153, 75)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(52, 54, 26)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(18, 19, 9)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(7, 7, 3)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(3, 3, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #12 added RGB(1, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #13 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<2.9995 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 114 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  88/1024         4224/49152    ( 8.6%) 
+brushes               2304/8192        27648/98304    (28.1%) 
+brushsides           15887/65536      127096/524288   (24.2%) 
+planes                7222/65536      144440/1310720  (11.0%) 
+vertexes             18530/65536      222360/786432   (28.3%) 
+nodes                 5684/65536      181888/2097152  ( 8.7%) 
+texinfos              2418/12288      174096/884736   (19.7%) 
+texdata                248/2048         7936/65536    (12.1%) 
+dispinfos              233/0           41008/0        ( 0.0%) 
+disp_verts            5881/0          117620/0        ( 0.0%) 
+disp_tris             7552/0           15104/0        ( 0.0%) 
+disp_lmsamples      740804/0          740804/0        ( 0.0%) 
+faces                11197/65536      627032/3670016  (17.1%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             6930/65536      388080/3670016  (10.6%) 
+leaves                5773/65536      184736/2097152  ( 8.8%) 
+leaffaces            13900/65536       27800/131072   (21.2%) 
+leafbrushes           5443/65536       10886/131072   ( 8.3%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges            82280/512000     329120/2048000  (16.1%) 
+edges                50474/256000     201896/1024000  (19.7%) 
+LDR worldlights        154/8192        13552/720896   ( 1.9%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips           1271/32768       12710/327680   ( 3.9%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         24105/65536       48210/131072   (36.8%) 
+cubemapsamples          42/1024          672/16384    ( 4.1%) 
+overlays                 1/512           352/180224   ( 0.2%) 
+LDR lightdata         [variable]     9011008/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]     1609269/16777216 ( 9.6%) 
+entdata               [variable]       74557/393216   (19.0%) 
+LDR ambient table     5773/65536       23092/262144   ( 8.8%) 
+HDR ambient table     5773/65536       23092/262144   ( 8.8%) 
+LDR leaf ambient     30694/65536      859432/1835008  (46.8%) 
+HDR leaf ambient      5773/65536      161644/1835008  ( 8.8%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/24284    ( 0.0%) 
+pakfile               [variable]     4591520/0        ( 0.0%) 
+physics               [variable]      836826/4194304  (20.0%) 
+physics terrain       [variable]       44145/1048576  ( 4.2%) 
+
+Level flags = 0
+
+Total triangle count: 32170
+Writing d:\nicolas\[ wip ]\pz_dam08.bsp
+16 minutes, 15 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[48 texlights parsed from 'lights.rad']
+
+Loading d:\nicolas\[ wip ]\pz_dam08.bsp
+11197 faces
+5 degenerate faces
+7170292 square feet [1032522112.00 square inches]
+233 Displacements
+1354225 Square Feet [195008400.00 Square Inches]
+11192 patches before subdivision
+180848 patches after subdivision
+155 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 49685195, max 2810
+transfer lists: 379.1 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(1311859, 760763, 279069)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(179064, 109774, 41618)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(30158, 20900, 8776)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(6544, 5133, 2330)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(1597, 1434, 694)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(476, 459, 225)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(148, 153, 75)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(52, 54, 26)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(18, 19, 9)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(7, 7, 3)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(3, 3, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #12 added RGB(1, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #13 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<14.9528 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 114 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  88/1024         4224/49152    ( 8.6%) 
+brushes               2304/8192        27648/98304    (28.1%) 
+brushsides           15887/65536      127096/524288   (24.2%) 
+planes                7222/65536      144440/1310720  (11.0%) 
+vertexes             18530/65536      222360/786432   (28.3%) 
+nodes                 5684/65536      181888/2097152  ( 8.7%) 
+texinfos              2418/12288      174096/884736   (19.7%) 
+texdata                248/2048         7936/65536    (12.1%) 
+dispinfos              233/0           41008/0        ( 0.0%) 
+disp_verts            5881/0          117620/0        ( 0.0%) 
+disp_tris             7552/0           15104/0        ( 0.0%) 
+disp_lmsamples      740804/0          740804/0        ( 0.0%) 
+faces                11197/65536      627032/3670016  (17.1%) 
+hdr faces            11197/65536      627032/3670016  (17.1%) 
+origfaces             6930/65536      388080/3670016  (10.6%) 
+leaves                5773/65536      184736/2097152  ( 8.8%) 
+leaffaces            13900/65536       27800/131072   (21.2%) 
+leafbrushes           5443/65536       10886/131072   ( 8.3%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges            82280/512000     329120/2048000  (16.1%) 
+edges                50474/256000     201896/1024000  (19.7%) 
+LDR worldlights        154/8192        13552/720896   ( 1.9%) 
+HDR worldlights        154/8192        13552/720896   ( 1.9%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips           1271/32768       12710/327680   ( 3.9%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         24105/65536       48210/131072   (36.8%) 
+cubemapsamples          42/1024          672/16384    ( 4.1%) 
+overlays                 1/512           352/180224   ( 0.2%) 
+LDR lightdata         [variable]     9011008/0        ( 0.0%) 
+HDR lightdata         [variable]     9011008/0        ( 0.0%) 
+visdata               [variable]     1609269/16777216 ( 9.6%) 
+entdata               [variable]       74557/393216   (19.0%) 
+LDR ambient table     5773/65536       23092/262144   ( 8.8%) 
+HDR ambient table     5773/65536       23092/262144   ( 8.8%) 
+LDR leaf ambient     30694/65536      859432/1835008  (46.8%) 
+HDR leaf ambient     30694/65536      859432/1835008  (46.8%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/24284    ( 0.0%) 
+pakfile               [variable]     4591520/0        ( 0.0%) 
+physics               [variable]      836826/4194304  (20.0%) 
+physics terrain       [variable]       44145/1048576  ( 4.2%) 
+
+Level flags = 0
+
+Total triangle count: 32170
+Writing d:\nicolas\[ wip ]\pz_dam08.bsp
+16 minutes, 56 seconds elapsed

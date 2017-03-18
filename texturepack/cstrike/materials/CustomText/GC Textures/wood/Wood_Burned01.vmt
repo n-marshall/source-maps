@@ -1,0 +1,6 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "CustomText/GC Textures/wood/Wood_Burned01"
+	"$bumpmap" "CustomText/GC Textures/wood/Wood_Burned01_normal"
+	"$surfaceprop" "WoodWood_Lowdensity"
+}
